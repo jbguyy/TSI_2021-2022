@@ -24,6 +24,9 @@ nav:
       - HTML : HTML-Le_BN_pour_multimedier.ipynb
       - LaTeX : LaTeX-Le_BN_pour_formuler.ipynb
       - Calcul : Arithmetique-Le_BN_pour_calculer.ipynb
+    - Projets :
+      - nsisium : nsisium.md
+      - course en cours : cec.md
     - AM Béquille de moto : Actions_Mecaniques-Bequille_De_Moto.ipynb
     - Ressources : ressources.md
 
