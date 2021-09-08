@@ -6,11 +6,9 @@
 ## Le 07/09 :
 - mini-projet nsisium : sprint d'initialisation
 
-## Le 08/09 :
+## Les 08 et 09/09 :
 - **Réaliser** un notebook jupyter comprenant à minima : un titre, deux paragraphes dont un avec retour à la ligne, une liste, un lien vers une page web, une image du web, quatre formules en LaTeX dont une fonction affine, une équation booléenne et un moment de force, un calcul, un programme Python...
 - **Publier** votre classeur numérique avec Material pour Mkdocs sur GitHub...
-
-## Le 09/09 :
-- Retour sur l'étude des actions mécanique de système béquille de moto et application au cas du véhicule de Course en Cours
+- Retour sur l'étude des actions mécanique de système béquille de moto et application au cas du véhicule de Course en Cours.
 
 
