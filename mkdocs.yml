@@ -37,7 +37,7 @@ theme:
     font: false  # RGPD ; pas de fonte Google
     language: fr # français
     logo: images/LogoIO.png 
-    favicon: images/LogoIO-orange.png
+    favicon: images/LogoIO-red.png
 
     palette: # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
       - scheme: default # nom du thème clair
