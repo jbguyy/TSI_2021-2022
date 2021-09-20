@@ -1,5 +1,8 @@
 # Cahier de texte TSI_2021-2022
 
+## Les 17 et 21/09 :
+- mini-projet [nsisium](./nsisium) : fin du sprint 1, livraison d'un robot équipé d'un capteur de nsisium et pilotable à distance sans fil ;
+
 ## Les 15 et 16/09 :
 - **Faire** une étude théorique de l'équilibre statique du véhicule de [Course en Cours](https://www.course-en-cours.com/fr/){:target="_blank"} ;
 - **Faire** l'étude des actions mécaniques du système [Chargeur Télescopique](./Actions_Mecaniques-Chargeur_Telescopique) ;
