@@ -1,13 +1,15 @@
 # Cahier de texte TSI_2021-2022
 
+## Les 22 et 23/09 :
+- **Faire** une étude théorique de l'équilibre statique du véhicule de [Course en Cours](https://www.course-en-cours.com/fr/){:target="_blank"} ;
+- **Faire** l'extrait du sujet type bac : [Camper_trolley](./pdf/RévisionTSI-Camper_trolley.pdf) ;
+- **Publier** votre classeur numérique avec [Material pour Mkdocs sur GitHub](./ressources/#mkdocs_tutor)...
+
 ## Les 17 et 21/09 :
 - mini-projet [nsisium](./nsisium) : fin du sprint 1, livraison d'un robot équipé d'un capteur de nsisium et pilotable à distance sans fil ;
 
 ## Les 15 et 16/09 :
-- **Faire** une étude théorique de l'équilibre statique du véhicule de [Course en Cours](https://www.course-en-cours.com/fr/){:target="_blank"} ;
 - **Faire** l'étude des actions mécaniques du système [Chargeur Télescopique](./Actions_Mecaniques-Chargeur_Telescopique) ;
-- **Publier** votre classeur numérique avec [Material pour Mkdocs sur GitHub](./ressources/#mkdocs_tutor)...
-
 ## Les 10 et 14/09 :
 - mini-projet [nsisium](./nsisium) : fin du sprint d'initialisation, début du sprint 1 ;
 
