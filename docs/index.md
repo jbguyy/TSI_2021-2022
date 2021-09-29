@@ -4,6 +4,10 @@
 
 -->
 
+## Les 01/10 :
+- mini-projet [nsisium](./nsisium) : préparation finale du matériel pour [Les 30 ans de la Fête de la Science à Morlaix](https://www.espace-sciences.org/morlaix/programme/evenement/les-30-ans-de-la-fete-de-la-science-a-morlaix){:target="_blank"} ce dimanche 03/10 de 14h à 18h à la Manufacture...
+> cf [La programmation](https://www.espace-sciences.org/sites/espace-sciences.org/files/documents/hors_les_murs/morlaix/bat_depliant_4_volets_-_fds_2021.pdf){:target="_blank"}.
+
 ## Les 29 et 30/09
 - **Finir** l'extrait du sujet type bac : [Camper_trolley](./pdf/RévisionTSI-Camper_trolley.pdf){:target="_blank"} ;
 - **Faire** une étude théorique de l'équilibre statique du véhicule de [Course en Cours](https://www.course-en-cours.com/fr/){:target="_blank"} ;
