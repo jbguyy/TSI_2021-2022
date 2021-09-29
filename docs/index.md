@@ -1,9 +1,19 @@
 # Cahier de texte TSI_2021-2022
 
-## Les 22 et 23/09 :
+<!-- - **Publier** votre classeur numérique avec [Material pour Mkdocs sur GitHub](./ressources/#mkdocs_tutor)...
+
+-->
+
+## Les 29 et 30/09
+- **Finir** l'extrait du sujet type bac : [Camper_trolley](./pdf/RévisionTSI-Camper_trolley.pdf){:target="_blank"} ;
 - **Faire** une étude théorique de l'équilibre statique du véhicule de [Course en Cours](https://www.course-en-cours.com/fr/){:target="_blank"} ;
+- **Initier** l'étude du comportement dynamique du [Buggy RC Black Pirate](./pdf/Voiture_Pirate.pdf){:target="_blank"}
+
+## Les 24 et 28/09 :
+- mini-projet [nsisium](./nsisium) : finalisation pour une présentation à la Fête de la Science le dimanche 03/10 à la Manu ;
+
+## Les 22 et 23/09 :
 - **Faire** l'extrait du sujet type bac : [Camper_trolley](./pdf/RévisionTSI-Camper_trolley.pdf) ;
-- **Publier** votre classeur numérique avec [Material pour Mkdocs sur GitHub](./ressources/#mkdocs_tutor)...
 
 ## Les 17 et 21/09 :
 - mini-projet [nsisium](./nsisium) : fin du sprint 1, livraison d'un robot équipé d'un capteur de nsisium et pilotable à distance sans fil ;
