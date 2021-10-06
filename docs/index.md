@@ -3,6 +3,15 @@
 <!-- - **Publier** votre classeur numérique avec [Material pour Mkdocs sur GitHub](./ressources/#mkdocs_tutor)...
 
 -->
+## Le 06/10 : 
+
+- Etude de cas du [comportement dynamique en translation](./pdf/CasEtudeDynamique.pdf) et application au [treuil](./pdf/Treuil.pdf)
+- **Poursuivre** l'étude du comportement dynamique du [Buggy RC Black Pirate](./pdf/Voiture_Pirate.pdf){:target="_blank"};​​
+
+## Le 05/10 :
+
+- mini-projet [nsisium](./nsisium) : débriefing de l'intervention à la Fête de la Science, bilan d'avancement du projet, rangement du matériel.
+
 
 ## Les 01/10 :
 - mini-projet [nsisium](./nsisium) : préparation finale du matériel pour [Les 30 ans de la Fête de la Science à Morlaix](https://www.espace-sciences.org/morlaix/programme/evenement/les-30-ans-de-la-fete-de-la-science-a-morlaix){:target="_blank"} ce dimanche 03/10 de 14h à 18h à la Manufacture...
