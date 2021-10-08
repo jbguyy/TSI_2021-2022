@@ -4,13 +4,18 @@
 
 -->
 
+## Le 12/10 :
+
+- Projet [Course en Cours](./cec) : [simulation du comportement dynamique du véhicule sous SolidworksMotion](./cec/#avec-solidworksmotion) ;
+
+
 ## Le 08/10 :
 
-- Projet Course en Cours : [simulation du comportement dynamique du véhicule sous SolidworksMotion](./cec/#avec-solidworksmotion) ;
+- Projet [Course en Cours](./cec) : éplucher le [nouveau règlement](https://www.course-en-cours.com/media/uploads/documents_utils/course-en-cours-reglement-2021_2022.pdf) et en faire une synthèse pour rendre compte dans un notebook :
 
 ## Les 06/10 et 07/10 : 
 
-- Etude de cas du [comportement dynamique en translation](./pdf/CasEtudeDynamique.pdf) et application au [treuil](./pdf/Treuil.pdf)
+- Etude de cas du [comportement dynamique en translation](./pdf/CasEtudeDynamique.pdf){:target="_blank"} et application au [treuil](./pdf/Treuil.pdf){:target="_blank"}
 - **Poursuivre** l'étude du comportement dynamique du [Buggy RC Black Pirate](./pdf/Voiture_Pirate.pdf){:target="_blank"};​​
 
 ## Le 05/10 :
