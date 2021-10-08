@@ -3,7 +3,12 @@
 <!-- - **Publier** votre classeur numérique avec [Material pour Mkdocs sur GitHub](./ressources/#mkdocs_tutor)...
 
 -->
-## Le 06/10 : 
+
+## Le 08/10 :
+
+- Projet Course en Cours : [simulation du comportement dynamique du véhicule sous SolidworksMotion](./cec/#avec-solidworksmotion) ;
+
+## Les 06/10 et 07/10 : 
 
 - Etude de cas du [comportement dynamique en translation](./pdf/CasEtudeDynamique.pdf) et application au [treuil](./pdf/Treuil.pdf)
 - **Poursuivre** l'étude du comportement dynamique du [Buggy RC Black Pirate](./pdf/Voiture_Pirate.pdf){:target="_blank"};​​
