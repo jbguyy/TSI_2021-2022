@@ -7,7 +7,7 @@
 
 ### Avec SolidWorksMotion :
 
-A partir du [règlement de CeC](./course-en-cours-reglement-2021_2022.pdf) et des fichiers SolidWorks de l'archive [CEC-SWM.zip](./CEC-SWM.zip), dans un premier temps, réaliser une simulation de la voiture en translation rectiligne sur la piste pour déterminer la force de propulsion qu’il faudra lui transmettre pour parcourir $15 m$ en moins de $2.046 s$ afin de rivaliser avec le record de France de l'équipe RUSK en 2018 lors de la finale nationnale au stade Charlety :
+A partir du [règlement de CeC](./course-en-cours-reglement-2021_2022.pdf) et des fichiers SolidWorks de l'archive [CEC-SWM.zip](../CeC/CEC-SWM.zip), dans un premier temps, réaliser une simulation de la voiture en translation rectiligne sur la piste pour déterminer la force de propulsion qu’il faudra lui transmettre pour parcourir $15 m$ en moins de $2.046 s$ afin de rivaliser avec le record de France de l'équipe RUSK en 2018 lors de la finale nationnale au stade Charlety :
 
 <figure>
 <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Le prix de la voiture la plus rapide revient à la Team Rusk : 2.046 secondes soit le meilleur temps réalisé en France ! 🏁🏎 <a href="https://twitter.com/hashtag/FinaleCEC?src=hash&amp;ref_src=twsrc%5Etfw">#FinaleCEC</a> <a href="https://t.co/6rllWQ8YEq">pic.twitter.com/6rllWQ8YEq</a></p>&mdash; Course en Cours (@CourseEnCours) <a href="https://twitter.com/CourseEnCours/status/1004403682681802754?ref_src=twsrc%5Etfw">June 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
