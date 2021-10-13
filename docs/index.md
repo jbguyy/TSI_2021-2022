@@ -4,10 +4,20 @@
 
 -->
 
+## Les 13 et 14/10 :
+
+- Projet [Course en Cours](./cec) : [synthèse de la simulation du comportement dynamique du véhicule en translation sous SolidworksMotion](./cec/#avec-solidworksmotion) ;
+
+> ** Faire les [exercices d'étude du comportement dynamique en translation](./pdf/dynamique_en_translation_exercice.pdf){:target="_blank"} et se préparer pour une évaluation écrite pour le 15/10 **
+
+- **Poursuivre** l'étude du comportement dynamique du [Buggy RC Black Pirate](./pdf/Voiture_Pirate.pdf){:target="_blank"};
+
+- Etude de cas du [comportement dynamique en rotation](./pdf/CasEtudeDynamique.pdf){:target="_blank"} et application au [treuil](./pdf/Treuil.pdf){:target="_blank"}
+
+
 ## Le 12/10 :
 
 - Projet [Course en Cours](./cec) : [simulation du comportement dynamique du véhicule sous SolidworksMotion](./cec/#avec-solidworksmotion) ;
-
 
 ## Le 08/10 :
 
