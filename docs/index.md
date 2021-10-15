@@ -4,6 +4,10 @@
 
 -->
 
+## Le 15/10 :
+
+- Evaluation d'étude du comportement dynamique en translation : Caméra mobile X-track ;
+
 ## Les 13 et 14/10 :
 
 - Projet [Course en Cours](./cec) : [synthèse de la simulation du comportement dynamique du véhicule en translation sous SolidworksMotion](./cec/#avec-solidworksmotion) ;
