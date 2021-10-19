@@ -11,7 +11,7 @@
 - Projet [Course en Cours](./cec) :
     - Inscription de l'équipe ;
     - [synthèse de la simulation du comportement dynamique du véhicule en translation sous SolidworksMotion](./cec/#translation-rectiligne) ;
-    - [simulation du comportement dynamique d'une roue en rotation sous SolidworksMotion](./cec//#rotation) ;
+    - [simulation du comportement dynamique d'une roue en rotation sous SolidworksMotion](./cec/#rotation) ;
 
 ## Le 15/10 :
 
