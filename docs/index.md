@@ -4,7 +4,17 @@
 
 -->
 
-<!-- - **Poursuivre** l'étude du comportement dynamique du [Buggy RC Black Pirate](./pdf/Voiture_Pirate.pdf){:target="_blank"}; -->
+
+## Les 20 et 21/10 :
+
+- Correction de l'évaluation d'étude du comportement dynamique en translation : Caméra mobile X-track ;
+
+- [Modélisation du frottement](./pdf/Frottement.pdf){:target="_blank"}​ : [animation (à télécharger sur PC)](./pdf/AnimationFrottement.zip) et étude des conditions d'équilibre d'une échelle ;
+
+- **Poursuivre** l'étude du comportement dynamique du [Buggy RC Black Pirate](./pdf/Voiture_Pirate.pdf){:target="_blank"};
+
+- **Faire** les questions 14 à 19 du [sujet original du Camper Trolley](.pdf/Camper_Sujet-2012.pdf){:target="_blank"} ;
+
 
 ## Le 19/10 :
 
