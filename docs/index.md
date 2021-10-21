@@ -13,7 +13,7 @@
 
 - **Poursuivre** l'étude du comportement dynamique du [Buggy RC Black Pirate](./pdf/Voiture_Pirate.pdf){:target="_blank"};
 
-- **Faire** les questions 14 à 19 du [sujet original du Camper Trolley](.pdf/Camper_Sujet-2012.pdf){:target="_blank"} ;
+- **Faire** les questions 14 à 19 du [sujet original du Camper Trolley](./pdf/Camper_Sujet-2012.pdf){:target="_blank"} ;
 
 
 ## Le 19/10 :
