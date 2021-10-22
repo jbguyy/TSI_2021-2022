@@ -4,7 +4,23 @@
 
 -->
 
+[mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Le 22/10 :
+
+- **Faire** les questions 14 à 19 du [sujet original du Camper Trolley](./pdf/Camper_Sujet-2012.pdf){:target="_blank"} ;
+
+- **Faire** le devoir Maison [Robot de surveillance TT](./pdf/DM_Robot-TT.pdf){:target="_blank"} ;
+
+> ==**Ces travaux sont à finaliser durant les vacances de la Toussaint ainsi que le 10/11 en autonomie pour les transmettre par [mail] avant le 15/11**==
+
+- Projet [Course en Cours](./cec) :
+    - Inscription de l'équipe ;
+    - [simulation du comportement dynamique d'une roue en rotation sous SolidworksMotion](./cec/#rotation) ;
+
+- Pour vous détendre durant les vacances, évoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/){target="_blank"} : ==*-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...*== ;
+
+***
 ## Les 20 et 21/10 :
 
 - Correction de l'évaluation d'étude du comportement dynamique en translation : Caméra mobile X-track ;
@@ -13,26 +29,25 @@
 
 - **Poursuivre** l'étude du comportement dynamique du [Buggy RC Black Pirate](./pdf/Voiture_Pirate.pdf){:target="_blank"};
 
-- **Faire** les questions 14 à 19 du [sujet original du Camper Trolley](./pdf/Camper_Sujet-2012.pdf){:target="_blank"} ;
-
-
+***
 ## Le 19/10 :
 
 - Projet [Course en Cours](./cec) :
-    - Inscription de l'équipe ;
     - [synthèse de la simulation du comportement dynamique du véhicule en translation sous SolidworksMotion](./cec/#translation-rectiligne) ;
-    - [simulation du comportement dynamique d'une roue en rotation sous SolidworksMotion](./cec/#rotation) ;
-
+    
+***
 ## Le 15/10 :
 
 - Evaluation d'étude du comportement dynamique en translation : Caméra mobile X-track ;
 
+***
 ## Les 13 et 14/10 :
 
 > ** Faire les [exercices d'étude du comportement dynamique en translation](./pdf/dynamique_en_translation_exercice.pdf){:target="_blank"} et se préparer pour une évaluation écrite pour le 15/10 **
 
 - Etude de cas du [comportement dynamique en rotation](./pdf/CasEtudeDynamique.pdf){:target="_blank"} et application au [treuil](./pdf/Treuil.pdf){:target="_blank"}
 
+***
 ## Le 12/10 :
 
 - Projet [Course en Cours](./cec) : [simulation du comportement dynamique du véhicule sous SolidworksMotion](./cec/#avec-solidworksmotion) ;
