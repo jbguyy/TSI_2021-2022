@@ -1,16 +1,22 @@
 # Cahier de texte TSI_2021-2022
 
-<!-- - **Publier** votre classeur numérique avec [Material pour Mkdocs sur GitHub](./ressources/#mkdocs_tutor)...
-
--->
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+***
+## Le 16/11 :
 
+- Projet [Course en Cours](./cec) :
+    - Validation de la [Fiche_Projets_SI-CeC](./pdf/Fiche_Projets_SI-CeC.pdf){target="_blank"} ;
+    - [simulation du comportement dynamique d'une roue en rotation sous SolidworksMotion](./cec/#rotation) ;
+
+- **Créer, déployer et maintenir** son [classeur de SI sur GitHub avec MkDocs](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/){target=_blank} ;
+
+***
 ## Le 22/10 :
 
 - **Faire** les questions 14 à 19 du [sujet original du Camper Trolley](./pdf/Camper_Sujet-2012.pdf){:target="_blank"} ;
 
-- **Faire** le devoir Maison [Robot de surveillance TT](./pdf/DM_Robot-TT.pdf){:target="_blank"} ;
+- **Faire** le devoir Maison [Robot de surveillance TT](./pdf/DM_Robot-TT.pdf){target="_blank"} ;
 
 > ==**Ces travaux sont à finaliser durant les vacances de la Toussaint ainsi que le 10/11 en autonomie pour les transmettre par [mail] avant le 15/11**==
 
