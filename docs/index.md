@@ -3,6 +3,25 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 ***
+## Les 17 et 18/11 :
+
+- Introduction de RDM, la [Résistance Des Matériaux](./RDM/Cours_RDM.pdf){target="_blank"} ;
+
+<figure>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MEFKvVCI3mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+- **Faire** les [exercices de RDM](./RDM/Exercices_RDM.pdf){target="_blank"} ;
+
+- **Faire** le [TP de RDM sous SolidWorks-Simulation](./RDM/TP_rdm_equerre.zip) ;
+
+### Prologements :
+
+- Pour bien comprendre, **lire** [les diaporamas de NewEcLigne au sujet de la RDM](https://sites.google.com/view/newecligne/m%C3%A9canique/r%C3%A9sistance-des-mat%C3%A9riaux){target="_blank"} ;
+
+- Pour aller plus loin, **découvrir** une méthode pour [choisir un matériaux](./RDM/Choix_materiaux.pdf){target="_blank"} selon une combinaison de critères...
+
+
 ## Le 16/11 :
 
 - Projet [Course en Cours](./cec) :
