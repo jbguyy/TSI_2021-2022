@@ -13,6 +13,10 @@
 
 - **Faire** les [exercices de RDM](./RDM/Exercices_RDM.pdf){target="_blank"} ;
 
+<figure>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gk_Pby-m5Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 - **Faire** le [TP de RDM sous SolidWorks-Simulation](./RDM/TP_rdm_equerre.zip) ;
 
 ### Prologements :
