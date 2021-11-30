@@ -2,8 +2,27 @@
 
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+
+
 ***
-## Les 17 et 18/11 :
+## Le 30/11 :
+
+> Ratrappage évaluation de RDM pour Noé ;
+
+- **Finaliser** le compte rendu de l'étude en RDM sous SolidWorks-Simulation d'une équerre ;
+
+***
+## Le 25/11 :
+
+- Evaluation de comportement mécanique, cinématique, statique et dynamique, extrait du sujet du robot MELODY ;
+
+***
+## Le 24/11 :
+
+- Evaluation de RDM ;
+
+***
+## Du 17 au 23/11 :
 
 - Introduction de RDM, la [Résistance Des Matériaux](./RDM/Cours_RDM.pdf){target="_blank"} ;
 
@@ -17,7 +36,8 @@
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gk_Pby-m5Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-- **Faire** le [TP de RDM sous SolidWorks-Simulation](./RDM/TP_rdm_equerre.zip) ;
+- **Faire** le [TP de RDM sous SolidWorks-Simulation](./RDM/TP_rdm_equerre.zip)
+et produire un compte rendu collectif dans un format numérique ;
 
 ### Prologements :
 
