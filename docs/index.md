@@ -2,7 +2,24 @@
 
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+***
+## Les 08 et 09/12 :
 
+- Lire le cours et faire les exercices concernant [Les capteurs et la chaîne d'acquisition](./pdf/Acquisition_Capteurs-Cours-Exercices.pdf) ;
+
+- Appliquer aux questions 11 et 12 du sujet complet [RobotSurveillanceTT](./pdf/RobotSurveillanceTT.pdf) ;
+
+
+***
+## Les 03 et 7/12 :
+
+- Projet CeC...
+
+
+***
+## Les 01 et 02/12 :
+
+- Corrections...
 
 ***
 ## Le 30/11 :
