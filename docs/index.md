@@ -5,9 +5,9 @@
 ***
 ## Les 08 et 09/12 :
 
-- Lire le cours et faire les exercices concernant [Les capteurs et la chaîne d'acquisition](./pdf/Acquisition_Capteurs-Cours-Exercices.pdf) ;
+- Lire le cours et faire les exercices concernant [Les capteurs et la chaîne d'acquisition](./pdf/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ;
 
-- Appliquer aux questions 11 et 12 du sujet complet [RobotSurveillanceTT](./pdf/RobotSurveillanceTT.pdf) ;
+- Appliquer aux questions 11 et 12 du sujet complet [RobotSurveillanceTT](./pdf/RobotSurveillanceTT.pdf){target="_blank"} ;
 
 
 ***
