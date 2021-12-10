@@ -2,6 +2,12 @@
 
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+
+***
+## Le 10/12 :
+
+- Prendre en main l'application [OnShape](./Modelisation_3D/#onshape) pour réaliser la modélisation 3D d'une roue pour le véhicule de Course en Cours ;
+
 ***
 ## Les 08 et 09/12 :
 
