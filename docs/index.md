@@ -4,6 +4,17 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Du 14 au 17/12 :
+
+- **Poursuivre** la modélisation 3D du véhicule de Course en Cours avec l'application [OnShape](./Modelisation_3D/#onshape) ;
+
+- **Finir** les exercices concernant [Les capteurs et la chaîne d'acquisition](./pdf/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} avec la ressource [Capteur_US-HC-SR04.pdf](./pdf/Capteur_US-HC-SR04.pdf){target="_blank"} ;
+
+- **Appliquer** aux questions 11 et 12 du sujet complet [RobotSurveillanceTT](./pdf/RobotSurveillanceTT.pdf){target="_blank"} ;
+
+- **Faire** le parcours 3 de la programmation des objets connectés sur la [plateforme de France-IOI](https://amazon.quick-pi.org/){target="_blank"} ;
+
+***
 ## Le 10/12 :
 
 - Prendre en main l'application [OnShape](./Modelisation_3D/#onshape) pour réaliser la modélisation 3D d'une roue pour le véhicule de Course en Cours ;
